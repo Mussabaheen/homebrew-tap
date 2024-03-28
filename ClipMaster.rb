@@ -1,8 +1,8 @@
 class Clipmaster < Formula
   desc "App to maintain the clipboard history for macOS"
   homepage "https://github.com/Mussabaheen/clipboard"
-  url "https://github.com/Mussabaheen/clipboard/archive/refs/tags/0.0.4.tar.gz"
-  sha256 "e5de94715e90547051aefa5de555810e7d3634827036ddfebdbb458fd08f4c22"
+  url "https://github.com/Mussabaheen/ClipMaster/archive/refs/tags/0.0.5.tar.gz"
+  sha256 "41fdc7d1a19b4a8bcb848169c1577dc692e7cb5af88ddd7da55872982592d4bb"
   license "MIT"
 
   depends_on "go" => :build
