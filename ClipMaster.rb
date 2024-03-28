@@ -1,6 +1,6 @@
 class Clipmaster < Formula
   desc "App to maintain the clipboard history for macOS"
-  homepage ""
+  homepage "29aeb7d3d613c5c604b5e95426810e1fad4527cdc478e4215b502863a9bd1f2f"
   url "https://github.com/Mussabaheen/clipboard/archive/refs/tags/0.0.4.tar.gz"
   sha256 "e5de94715e90547051aefa5de555810e7d3634827036ddfebdbb458fd08f4c22"
   license "MIT"
